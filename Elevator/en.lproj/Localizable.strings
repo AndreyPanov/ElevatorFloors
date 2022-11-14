@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Elevator
+
+  Created by Andrey Panov on 14/11/2022.
+  
+*/
+"welcome_screen_title" = "Welcome";
+"login_button" = "Log in";
